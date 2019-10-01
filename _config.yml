@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Pawan Bharadwaj
+description:    "Blogs"
+url:            "https://pawanbharadwaj.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
+  name:         Pawan Bharadwaj
   url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        pawanbharadwaj.g@gmail.com
 
 # Build settings
 markdown:       kramdown
