@@ -1,7 +1,7 @@
 # Site settings
 title:          Pawan Bharadwaj
 description:    "Blogs"
-url:            "https://pawanbharadwaj.github.io"
+url:            "https://legsidestrangle.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -9,8 +9,10 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Pawan Bharadwaj
-  url:          https://chester.how
+  #url:          https://chester.how
   email:        pawanbharadwaj.g@gmail.com
+  Bio:         Machine Learning Blog 
+
 
 # Build settings
 markdown:       kramdown
