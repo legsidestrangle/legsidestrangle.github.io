@@ -9,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Pawan Bharadwaj
-  url:          https://chester.how
+  #url:          #https://chester.how
   email:        pawanbharadwaj.g@gmail.com
 
 # Build settings
