@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quora Similar Question "
-author: "Pawan"
+author: "Pawan Bharadwaj"
 ---
 
 
