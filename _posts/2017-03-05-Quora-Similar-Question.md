@@ -4,9 +4,9 @@ title: "Duplicate questions on Quora Part 1"
 author: "Pawan Bharadwaj"
 ---
 
-Quora is a social media platform where exchange and sharing of knowledge happens via questions and answers. Nearly 100 million people visit the website every month so there are lot of questions and answers being shared on that website, which brings in a unique problem of duplicate questions, i.e same questions being asked by different people. It's important for Quora to eliminate the duplicate questions and provide a better experience for people who are seeking answers and those who are putting in effort to write them. In this we will find out how this was solved. First we define the problem statement. 
+Quora is a social media platform where knowledge sharing happens via questions and answers. Nearly 100 million people visit the website every month so there are lot of questions and answers being shared on that website, which brings in a unique problem of duplicate questions, i.e same questions being asked by different people. It's very important for Quora to eliminate the duplicate questions and provide a better experience for people who are seeking answers and those who are putting in effort to write them. In this we will find out how this was solved. First we define the problem statement. 
 
-# Problem Statement: 
+# Problem Statement and Constraints: 
 
 {% highlight markdown %}
 # H1
