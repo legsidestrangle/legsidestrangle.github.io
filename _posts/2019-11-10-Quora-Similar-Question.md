@@ -12,7 +12,7 @@ The first thing is to identify which questions asked on Quora are duplicates of 
 # Exploratory Data Analysis
 We will be performing some basic statistics to gain some knowledge about the data set which will help us in solving the problem. In this we try to find out number of question pairs 
 
-
+<img width="835" alt="Screen Shot 2019-11-10 at 8 01 08 PM" src="https://user-images.githubusercontent.com/16144527/68546051-f5460180-03f8-11ea-8e8c-550fcd729975.png">
 
 
 
