@@ -4,14 +4,14 @@ title: "Duplicate questions on Quora Part 1"
 author: "Pawan Bharadwaj"
 ---
 
-        Quora is a social media platform where knowledge sharing happens via questions and answers. Nearly 100 million people visit the website every month so there are lot of questions and answers being shared on that website, which brings in a unique problem of duplicate questions, i.e same questions being asked by different people. It's very important for Quora to eliminate the duplicate questions and provide a better experience for people who are seeking answers and those who are putting in effort to write them. In this we will find out how this was solved. First we define the problem statement. 
+Quora is a social media platform where knowledge sharing happens via questions and answers. Nearly 100 million people visit the website every month so there are lot of questions and answers being shared on that website, which brings in a unique problem of duplicate questions, i.e same questions being asked by different people. It's very important for Quora to eliminate the duplicate questions and provide a better experience for people who are seeking answers and those who are putting in effort to write them. In this we will find out how this was solved. First we define the problem statement. 
 
 # Problem Statement and Constraints: 
-      The first thing is to identify which questions asked on Quora are duplicates of questions that have already been asked, we are then tasked whether a pair of questions are duplicates or not. We do that finding the probability of pair of questions being duplicates or not and we decide if they are duplicates based on the threshold values we oursleves set. So for example the probability of questions is 0.95 we can say that they are duplicates or lets say if it's 0.5 we can say they are not duplicates but we need to have a threshold value so as to not have any misclassification because the cost of misclassification is quite high. 
+The first thing is to identify which questions asked on Quora are duplicates of questions that have already been asked, we are then tasked whether a pair of questions are duplicates or not. We do that finding the probability of pair of questions being duplicates or not and we decide if they are duplicates based on the threshold values we oursleves set. So for example the probability of questions is 0.95 we can say that they are duplicates or lets say if it's 0.5 we can say they are not duplicates but we need to have a threshold value so as to not have any misclassification because the cost of misclassification is quite high. 
 
 # Exploratory Data Analysis
 
-  We will be performing some basic statistics to gain some knowledge about the data set which will help us in solving the problem. In this we try to find out number of question pairs 
+ We will be performing some basic statistics to gain some knowledge about the data set which will help us in solving the problem. In this we try to find out number of question pairs 
 
 <img width="835" alt="Screen Shot 2019-11-10 at 8 01 08 PM" src="https://user-images.githubusercontent.com/16144527/68546051-f5460180-03f8-11ea-8e8c-550fcd729975.png">
 
