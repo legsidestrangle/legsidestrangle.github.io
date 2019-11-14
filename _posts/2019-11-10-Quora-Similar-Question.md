@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Duplicate questions on Quora Part 1"
+title: "Duplicate questions on Quora"
 author: "Pawan Bharadwaj"
 ---
 
