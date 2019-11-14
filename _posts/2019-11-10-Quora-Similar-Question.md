@@ -15,7 +15,6 @@ The first thing is to identify which questions asked on Quora are duplicates of 
 
 <img width="835" alt="Screen Shot 2019-11-10 at 8 01 08 PM" src="https://user-images.githubusercontent.com/16144527/68546051-f5460180-03f8-11ea-8e8c-550fcd729975.png">
 
-We see that there are 6 columns 
 
 {% highlight markdown %}
 # H1
