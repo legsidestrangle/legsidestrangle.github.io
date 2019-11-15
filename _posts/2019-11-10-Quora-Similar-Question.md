@@ -14,9 +14,12 @@ But our final aim is not to  just have 0's and 1's but to have a probability val
 
 # Exploratory Data Analysis
 
- We will be performing some basic statistics to gain some knowledge about the data set which will help us in solving the problem. In this we try to find out number of question pairs 
+The data for this particualr problem was taken from the kaggle's competetion website (https://www.kaggle.com/c/quora-question-pairs/data). Before we jump into feautre engineering and basics of natural languange processing. We will performing basic statistics on the data to have a better understanding of the problem and if there are any anomolies in the data we can remove them. 
+
+From  the below image we see that there are six columns. First column is a normal row ID while the second and third columns are unique ID's of each question of the pair of questions. The third and fourth column are the questions itself whilethe last column is target variable or label we will be trying to predict they have either 0's or 1's as it's values. 
 
 <img width="835" alt="Screen Shot 2019-11-10 at 8 01 08 PM" src="https://user-images.githubusercontent.com/16144527/68546051-f5460180-03f8-11ea-8e8c-550fcd729975.png">
+
 
 
 {% highlight markdown %}
