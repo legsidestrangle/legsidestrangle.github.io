@@ -38,13 +38,14 @@ Here are the features we will be creating to have some insights into our data se
 
   q1_n_words = Number of words in Question 1
   q2_n_words = Number of words in Question 2
-  Common_words = (Number of common unique words in Question 1 and Question 2)
-  Total_words =(Total num of words in Question 1 + Total num of words in Question 2)
-  Shared_words = (word_common)/(word_Total)
+  words_common = (Number of common unique words in Question 1 and Question 2)
+  words_total =(Total num of words in Question 1 + Total num of words in Question 2)
+  words_shared = (word_common)/(word_Total)
   
 The following code is used to create the fewatures which will analyse them a little next. 
 <img width="581" alt="Screen Shot 2019-11-15 at 4 01 46 PM" src="https://user-images.githubusercontent.com/16144527/68936828-4e2ee480-07c1-11ea-9fc4-57116ddca1db.png">
-
+First we will analyse the word_share feature. This feature was created by finding the common words and the dividing them by total no of words in both the questions. 
+<img width="746" alt="Screen Shot 2019-11-15 at 4 22 05 PM" src="https://user-images.githubusercontent.com/16144527/68939501-c8ae3300-07c6-11ea-8612-0561182ecd77.png"> <img width="746" alt="Screen Shot 2019-11-15 at 4 22 05 PM" src="https://user-images.githubusercontent.com/16144527/68939501-c8ae3300-07c6-11ea-8612-0561182ecd77.png">
 
 
 _The end_
