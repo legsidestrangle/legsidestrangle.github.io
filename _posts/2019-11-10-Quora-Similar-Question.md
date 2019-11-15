@@ -94,3 +94,6 @@ We will check the binary confusion matrix for futher insight and we see that the
 
 <img width="938" alt="Screen Shot 2019-11-15 at 6 19 17 PM" src="https://user-images.githubusercontent.com/16144527/68944799-c94dc600-07d4-11ea-917f-23352f48ea84.png">
 
+In conclusion we can say that XG boost is the best model for predicting if a set of questions are similar or not. Further study can be done by tuning hyperparameters and making the model even accurate. There's also scope for using deep learning models which might increase the precision of the model and hence reducing the chances of misclassification. 
+
+
