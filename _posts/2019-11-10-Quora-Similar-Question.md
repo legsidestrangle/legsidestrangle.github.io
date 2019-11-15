@@ -24,6 +24,10 @@ We then get more information about the data points like number of question pairs
 
 <img width="936" alt="Screen Shot 2019-11-15 at 2 42 06 PM" src="https://user-images.githubusercontent.com/16144527/68931340-52093980-07b6-11ea-9368-589d271247d0.png">
 
+Additionally we find out the number of unique questions in the data set and number of questions which are repeated. This is important as this will help us in feature engineering which will be done in the next section. 
+
+<img width="623" alt="Screen Shot 2019-11-15 at 2 53 47 PM" src="https://user-images.githubusercontent.com/16144527/68932061-d5775a80-07b7-11ea-965e-e04ff7f7e475.png">
+
 
 
 
