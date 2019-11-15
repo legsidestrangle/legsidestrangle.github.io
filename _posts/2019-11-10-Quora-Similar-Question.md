@@ -20,6 +20,9 @@ From  the below image we see that there are six columns. First column is a norma
 
 <img width="835" alt="Screen Shot 2019-11-10 at 8 01 08 PM" src="https://user-images.githubusercontent.com/16144527/68546051-f5460180-03f8-11ea-8e8c-550fcd729975.png">
 
+We then get more information about the data points like number of question pairs for training and how many similar and non similar question are there in our data set. 
+
+<img width="936" alt="Screen Shot 2019-11-15 at 2 42 06 PM" src="https://user-images.githubusercontent.com/16144527/68931340-52093980-07b6-11ea-9368-589d271247d0.png">
 
 
 {% highlight markdown %}
