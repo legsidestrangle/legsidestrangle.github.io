@@ -45,7 +45,11 @@ Here are the features we will be creating to have some insights into our data se
 The following code is used to create the fewatures which will analyse them a little next. 
 <img width="581" alt="Screen Shot 2019-11-15 at 4 01 46 PM" src="https://user-images.githubusercontent.com/16144527/68936828-4e2ee480-07c1-11ea-9fc4-57116ddca1db.png">
 First we will analyse the word_share feature. This feature was created by finding the common words and the dividing them by total no of words in both the questions. 
-<img width="746" alt="Screen Shot 2019-11-15 at 4 22 05 PM" src="https://user-images.githubusercontent.com/16144527/68939501-c8ae3300-07c6-11ea-8612-0561182ecd77.png"> <img width="746" alt="Screen Shot 2019-11-15 at 4 22 05 PM" src="https://user-images.githubusercontent.com/16144527/68939501-c8ae3300-07c6-11ea-8612-0561182ecd77.png">
+<img width="746" alt="Screen Shot 2019-11-15 at 4 22 05 PM" src="https://user-images.githubusercontent.com/16144527/68939501-c8ae3300-07c6-11ea-8612-0561182ecd77.png"> 
+
+<img width="732" alt="Screen Shot 2019-11-15 at 4 22 30 PM" src="https://user-images.githubusercontent.com/16144527/68939506-cba92380-07c6-11ea-82dc-b294195aa1f6.png">
+
+We have plotted a distritubution plot of the feature among class 0's and class 1's. What we observe is that both the distributions overlap a lot and but they don't overlap completely making it very difficult for us to classify them. While this is not the best casescenario, this is something we can work on. In class 1 we see more word shared which indicates that if there are more word shared between questions, the probability of the pair to be similar is quite high. Same way we see that word shared in class 0 label is not high indicating an observation similar previous one. Having said that we need to do futher feature extraction for us to have even clearer method for classifying the class labels. 
 
 
 _The end_
