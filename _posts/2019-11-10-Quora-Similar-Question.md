@@ -83,5 +83,14 @@ It's a simple one line code for doing this. If we had more information like for 
 # ML Modeling: XGBoost
 
 After trying different linear models and non linear models, it was decided that XG boost gives best results in terms of log loss in training and test data. 
-_The end_
+
+<img width="727" alt="Screen Shot 2019-11-15 at 6 18 49 PM" src="https://user-images.githubusercontent.com/16144527/68944734-97d4fa80-07d4-11ea-8032-7a13ac243b5f.png">
+
+<img width="449" alt="Screen Shot 2019-11-15 at 6 19 10 PM" src="https://user-images.githubusercontent.com/16144527/68944785-c18e2180-07d4-11ea-95dd-b480907fb385.png">
+
+We see that the log loss of train and test data are quite similar. This gives us some indication that there is not much overfitting and in XG boost changes of underfitting is quite low. 
+
+We will check the binary confusion matrix for futher insight and we see that the precision for predicting the first class is quite high while linear models dont perform this well. 
+
+<img width="938" alt="Screen Shot 2019-11-15 at 6 19 17 PM" src="https://user-images.githubusercontent.com/16144527/68944799-c94dc600-07d4-11ea-917f-23352f48ea84.png">
 
