@@ -69,6 +69,9 @@ The above code is for the first questions in a pair and the code below is for th
 
 <img width="477" alt="Screen Shot 2019-11-15 at 5 41 37 PM" src="https://user-images.githubusercontent.com/16144527/68942712-44ac7900-07cf-11ea-8771-b369a5cba4a8.png">
 
+Using this we will create features which comes to 794 features, so we will training a model with 790 dimensions. The code for the same is given below. We create a new csv file so that we can use that for training it on our models. 
+
+<img width="858" alt="Screen Shot 2019-11-15 at 6 08 38 PM" src="https://user-images.githubusercontent.com/16144527/68944088-05802700-07d3-11ea-91e7-28a7100ed22c.png">
 
 _The end_
 
