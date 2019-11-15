@@ -56,6 +56,12 @@ First we will analyse the word_share feature. This feature was created by findin
 
 We have plotted a distritubution plot of the feature among class 0's and class 1's. What we observe is that both the distributions overlap a lot and but they don't overlap completely making it very difficult for us to classify them. While this is not the best casescenario, this is something we can work on. In class 1 we see more word shared which indicates that if there are more word shared between questions, the probability of the pair to be similar is quite high. Same way we see that word shared in class 0 label is not high indicating an observation similar previous one. Having said that we need to do futher feature extraction for us to have even clearer method for classifying the class labels. 
 
+# Feature Extraction with TF-IDF
+The first thing to do is to find the TF-IDF scores which we will be using to convert each question to weighted average of word2vec vectors. The following code is used for getting the Tf-idf scores 
+
+<img width="497" alt="Screen Shot 2019-11-15 at 5 26 24 PM" src="https://user-images.githubusercontent.com/16144527/68942028-702e6400-07cd-11ea-9e27-29c8490d0702.png">
+
+
 
 _The end_
 
