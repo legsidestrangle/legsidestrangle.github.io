@@ -43,8 +43,13 @@ Here are the features we will be creating to have some insights into our data se
   words_shared = (word_common)/(word_Total)
   
 The following code is used to create the fewatures which will analyse them a little next. 
+
+
 <img width="581" alt="Screen Shot 2019-11-15 at 4 01 46 PM" src="https://user-images.githubusercontent.com/16144527/68936828-4e2ee480-07c1-11ea-9fc4-57116ddca1db.png">
+
 First we will analyse the word_share feature. This feature was created by finding the common words and the dividing them by total no of words in both the questions. 
+
+
 <img width="746" alt="Screen Shot 2019-11-15 at 4 22 05 PM" src="https://user-images.githubusercontent.com/16144527/68939501-c8ae3300-07c6-11ea-8612-0561182ecd77.png"> 
 
 <img width="732" alt="Screen Shot 2019-11-15 at 4 22 30 PM" src="https://user-images.githubusercontent.com/16144527/68939506-cba92380-07c6-11ea-82dc-b294195aa1f6.png">
