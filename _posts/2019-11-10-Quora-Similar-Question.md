@@ -43,7 +43,7 @@ Here are the features we will be creating to have some insights into our data se
   Shared_words = (word_common)/(word_Total)
   
 The following code is used to create the fewatures which will analyse them a little next. 
-<img width="547" alt="Screen Shot 2019-11-15 at 3 59 13 PM" src="https://user-images.githubusercontent.com/16144527/68936600-ea0c2080-07c0-11ea-897e-723ec2178006.png">
+<img width="581" alt="Screen Shot 2019-11-15 at 4 01 46 PM" src="https://user-images.githubusercontent.com/16144527/68936828-4e2ee480-07c1-11ea-9fc4-57116ddca1db.png">
 
 
 
