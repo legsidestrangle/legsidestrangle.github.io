@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Duplicate questions on Quora"
+title: "Detecting Duplicate Questions on Quora"
 author: "Pawan Bharadwaj"
 ---
 
