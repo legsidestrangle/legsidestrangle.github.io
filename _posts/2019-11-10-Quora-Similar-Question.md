@@ -31,6 +31,19 @@ while Unique questions which are repeated are around 111780 that's approximately
 <img width="623" alt="Screen Shot 2019-11-15 at 2 53 47 PM" src="https://user-images.githubusercontent.com/16144527/68932061-d5775a80-07b7-11ea-965e-e04ff7f7e475.png">
 
 
+# Feature extraction 
+
+We will be doing some basic feature extraction where in we create some new columns(features) in our data set and see if they are useful in the classification of the data set which was out initial goal to begin with. After few iteration to create fewatures we see that only few are useful in getting insight. 
+Here are the features we will be creating to have some insights into our data set. 
+
+  q1_n_words = Number of words in Question 1
+  q2_n_words = Number of words in Question 2
+  Common_words = (Number of common unique words in Question 1 and Question 2)
+  Total_words =(Total num of words in Question 1 + Total num of words in Question 2)
+  Shared_words = (word_common)/(word_Total)
+  
+The following code is used to create the fewatures which will analyse them a little next. 
+<img width="547" alt="Screen Shot 2019-11-15 at 3 59 13 PM" src="https://user-images.githubusercontent.com/16144527/68936600-ea0c2080-07c0-11ea-897e-723ec2178006.png">
 
 
 
