@@ -61,6 +61,9 @@ The first thing to do is to find the TF-IDF scores which we will be using to con
 
 <img width="497" alt="Screen Shot 2019-11-15 at 5 26 24 PM" src="https://user-images.githubusercontent.com/16144527/68942028-702e6400-07cd-11ea-9e27-29c8490d0702.png">
 
+We use pre trained GLOVE model which was trained on Wikipedia so the word semantics is quite strong in this. We get this model from spacy.io and convert each question to weighted average of word2vec vectors. 
+
+<img width="477" alt="Screen Shot 2019-11-15 at 5 41 37 PM" src="https://user-images.githubusercontent.com/16144527/68942712-44ac7900-07cf-11ea-8771-b369a5cba4a8.png">  <img width="477" alt="Screen Shot 2019-11-15 at 5 41 37 PM" src="https://user-images.githubusercontent.com/16144527/68942712-44ac7900-07cf-11ea-8771-b369a5cba4a8.png">
 
 
 _The end_
