@@ -73,5 +73,15 @@ Using this we will create features which comes to 794 features, so we will train
 
 <img width="858" alt="Screen Shot 2019-11-15 at 6 08 38 PM" src="https://user-images.githubusercontent.com/16144527/68944088-05802700-07d3-11ea-91e7-28a7100ed22c.png">
 
+# Training- Test Data Split 
+We randomly split the date in terms of 70:30 meaning 70% is trianing data while 30% is ourtest data
+It's a simple one line code for doing this. If we had more information like for example time stamp of the questions asked, we can split the data based on the time stamp but since we dont have any additional information, we do a random split. 
+
+<img width="767" alt="Screen Shot 2019-11-15 at 6 14 57 PM" src="https://user-images.githubusercontent.com/16144527/68944585-25641a80-07d4-11ea-8ba9-083319448b55.png">
+
+
+# ML Modeling: XGBoost
+
+After trying different linear models and non linear models, it was decided that XG boost gives best results in terms of log loss in training and test data. 
 _The end_
 
